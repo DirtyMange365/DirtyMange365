@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DirtyMange365
-- 👀 I’m interested in <<Minecraft;Java Edition>> and <<Minecraft:Bedrock Edition>> and <<Minecraft:Java&Bedrock Edition>>Package.
+- 👀 I’m interested in <<Minecraft:Java Edition>> and <<Minecraft:Bedrock Edition>> and <<Minecraft:Java&Bedrock Edition>>Package.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 DirtyMange365@hotmail.com
