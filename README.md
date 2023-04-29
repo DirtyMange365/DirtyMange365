@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DirtyMange365
 - 👀 I’m interested in <<Minecraft:Java Edition>> and <<Minecraft:Bedrock Edition>> and <<Minecraft:Java&Bedrock Edition>>Package.
 - 🌱 I’m currently learning <<Java>> , <<Python>> , <<Kittken>> .
-- 💞️ I’m looking to collaborate on your Silly.
+- 💞️ I’m looking to collaborate on Silly,Fuck.
 - 📫 DirtyMange365@hotmail.com
 
 <!---
